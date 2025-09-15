@@ -1,3 +1,3 @@
-# luyentapgit
+# Practice git
 
 Practice using Git
